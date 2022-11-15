@@ -3,7 +3,7 @@
 Develop simple distributed systems with application of principles and protocols of distributed computing
 
 Outline of Problem requires to develop a distributed system using TCP or UDP protocol.
-required to demonstrate the ability to use JAVA TCP/UDP solution to develop a simple distributed application.
+required to demonstrate the ability to use Scala TCP/UDP solution to develop a simple distributed application.
 This project is to enhance understanding of Socket Programming and Multi-Threading
 Gain experience in implementing a simple distributed, client server application.
 
